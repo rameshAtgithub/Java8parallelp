@@ -25,7 +25,7 @@ public class StreamParallelProcessingDemo {
 		long et = System.currentTimeMillis();
 		
 		long diff = et-st;
-		System.out.println(" time req to process " + diff );
+		System.out.println(" time req to process" + diff );
 
 	}
 
